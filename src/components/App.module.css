@@ -1,0 +1,8 @@
+.main {
+    color: #010101;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    background-color: hsl(0deg 0% 81.25% / 42%);
+}

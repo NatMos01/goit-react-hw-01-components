@@ -1,0 +1,14 @@
+.item {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+  padding: 10px;
+  box-shadow: 0px 3px 12px -7px #313222;
+  width: 360px;
+}
+.status {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
